@@ -1,0 +1,6 @@
+.catkin_workspace
+devel_isolated/
+build_isolated/
+install_isolated/
+src/
+!src/melodic.rosinstall
